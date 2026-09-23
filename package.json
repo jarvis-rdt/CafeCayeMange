@@ -1,0 +1,10 @@
+{
+  "name": "cafe-caye-mange-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Café Caye Mangé — vegan plant-based Caribbean café website (static HTML/CSS/JS)",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
