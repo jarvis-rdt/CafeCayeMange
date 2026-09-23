@@ -1,5 +1,5 @@
 /* ============================================================
-   Café Caye Mangé — Global Stylesheet
+   Café Caye Mangé · Global Stylesheet
    St. Lucia–inspired Caribbean Vegan Café · Yarmouth, NS
    ============================================================ */
 
@@ -45,7 +45,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   --green:       #1B5E3B;
   --green-dim:   rgba(27,94,59,.12);
 
-  /* Madras plaid, sampled from logo.jpg — reserved for small accent touches */
+  /* Madras plaid, sampled from logo.jpg, reserved for small accent touches */
   --madras-red:    #D82430;
   --madras-orange: #F08430;
   --madras-yellow: #FCE100;

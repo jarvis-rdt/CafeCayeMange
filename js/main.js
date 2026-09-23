@@ -1,5 +1,5 @@
 /* ============================================================
-   Café Caye Mangé — main.js
+   Café Caye Mangé · main.js
    Navigation, mobile menu, scroll reveals, stat counters,
    menu tabs, and open-today highlighting.
    ============================================================ */
