@@ -1,10 +1,4 @@
-/* ============================================================
-   Café Caye Mangé · sanity-config.js
-   Reserved for a future Sanity CMS connection (the file name
-   and load order are already wired into every page). No CMS
-   is connected yet; this stub keeps script loading safe.
-   ============================================================ */
-(function () {
-  'use strict';
-  window.SANITY_CONFIG = null; /* set { projectId, dataset } when a CMS is added */
-})();
+// Public Sanity project values (safe to expose — the dataset is public-read,
+// same trust model as the Supabase anon key used elsewhere in this repo).
+window.SANITY_PROJECT_ID = 'p24552d2';
+window.SANITY_DATASET = 'production';
